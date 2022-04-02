@@ -113,7 +113,7 @@ const Post = ({ initialPost }: { initialPost: IPost }): JSX.Element => {
   return (
     <>
       <Head>
-        <title>WICC 2021 | {initialPost?.title || "Publicación"}</title>
+        <title>WICC 2022 | {initialPost?.title || "Publicación"}</title>
         <link rel="icon" href="/favicon.ico" />
         {initialPost?.workshop?.enable_comments && (
           <script

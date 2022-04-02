@@ -24,7 +24,7 @@ const Home = (): JSX.Element => {
   return (
     <>
       <Head>
-        <title>WICC 2021 | 500</title>
+        <title>WICC 2022 | 500</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <StyledContainer>

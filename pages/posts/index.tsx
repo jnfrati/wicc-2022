@@ -39,7 +39,7 @@ const Posts = ({ initialPosts }: { initialPosts: IPost[] }): JSX.Element => {
   return (
     <>
       <Head>
-        <title>WICC 2021 | Lista de publicaciones</title>
+        <title>WICC 2022 | Lista de publicaciones</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <StyledWrapper>

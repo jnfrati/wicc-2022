@@ -64,7 +64,7 @@ const Home = ({
     <>
       <Head>
         <title>
-          WICC 2021 | Workshop de Investigadores en Ciencias de la Computación
+          WICC 2022 | Workshop de Investigadores en Ciencias de la Computación
         </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -224,10 +224,10 @@ const Home = ({
             <Col lg={8}>
               <Button
                 type="link"
-                href="https://wicc2021.undec.edu.ar/"
+                href="https://wicc2022.undec.edu.ar/"
                 target="_blank"
               >
-                WICC2021.undec.edu.ar
+                WICC2022.undec.edu.ar
               </Button>
             </Col>
             <Col lg={8}>

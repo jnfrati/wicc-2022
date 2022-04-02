@@ -70,7 +70,7 @@ const Workshop = ({
   return (
     <>
       <Head>
-        <title>WICC 2021 | {initialWorkshop?.title || "Workshop"}</title>
+        <title>WICC 2022 | {initialWorkshop?.title || "Workshop"}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <StyledWrapper>

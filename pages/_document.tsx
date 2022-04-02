@@ -22,18 +22,18 @@ class MyDocument extends Document {
           <meta
             name="description"
             content="Workshop de Investigadores en Ciencias de la Computación.
-          Edición 2021 - Chilecito, La Rioja, Argentina."
+          Edición 2022 - Universidad Champagnat, Mendoza, Argentina."
           />
 
           {/* <!-- Google / Search Engine Tags --> */}
           <meta
             itemProp="name"
-            content="WICC 2021 | Workshop de Investigadores en Ciencias de la Computación"
+            content="WICC 2022 | Workshop de Investigadores en Ciencias de la Computación"
           />
           <meta
             itemProp="description"
             content="Workshop de Investigadores en Ciencias de la Computación.
-          Edición 2021 - Chilecito, La Rioja, Argentina."
+          Edición 2022 - Universidad Champagnat, Mendoza, Argentina."
           />
           <meta itemProp="image" content="https://www.wicc.tk/WICC-logo.png" />
 
@@ -42,12 +42,12 @@ class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta
             property="og:title"
-            content="WICC 2021 | Workshop de Investigadores en Ciencias de la Computación"
+            content="WICC 2022 | Workshop de Investigadores en Ciencias de la Computación"
           />
           <meta
             property="og:description"
             content="Workshop de Investigadores en Ciencias de la Computación.
-          Edición 2021 - Chilecito, La Rioja, Argentina."
+          Edición 2022 - Universidad Champagnat, Mendoza, Argentina."
           />
           <meta
             property="og:image"
@@ -58,12 +58,12 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary_large_image" />
           <meta
             name="twitter:title"
-            content="WICC 2021 | Workshop de Investigadores en Ciencias de la Computación"
+            content="WICC 2022 | Workshop de Investigadores en Ciencias de la Computación"
           />
           <meta
             name="twitter:description"
             content="Workshop de Investigadores en Ciencias de la Computación.
-          Edición 2021 - Chilecito, La Rioja, Argentina."
+          Edición 2022 - Universidad Champagnat, Mendoza, Argentina."
           />
           <meta
             name="twitter:image"

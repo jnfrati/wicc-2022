@@ -42,7 +42,7 @@ const Workshops = ({
   return (
     <>
       <Head>
-        <title>WICC 2021 | Lista de workshops</title>
+        <title>WICC 2022 | Lista de workshops</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <StyledWrapper>
