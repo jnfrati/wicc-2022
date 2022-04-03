@@ -33,6 +33,7 @@ export async function getServerSideProps(): Promise<
   GetServerSidePropsResult<IHomeProps>
 > {
   try {
+    console.log(process.env)
     const props = await fetch(`${process.env.URL}/api/index_page`).then((res) =>
       res.json()
     );
