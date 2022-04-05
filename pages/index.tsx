@@ -225,10 +225,10 @@ const Home = ({
             <Col lg={8}>
               <Button
                 type="link"
-                href="https://wicc2022.undec.edu.ar/"
+                href="https://wicc2022.uch.edu.ar/"
                 target="_blank"
               >
-                WICC2022.undec.edu.ar
+                wicc2022.uch.edu.ar
               </Button>
             </Col>
             <Col lg={8}>
