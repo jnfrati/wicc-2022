@@ -77,7 +77,7 @@ const Home = ({
           <StyledContent color="purple" fullRounded>
             <Row align="middle" gutter={[32, 32]} justify="center">
               <Col>
-                <StyledTitle2 level={2}>XXIII</StyledTitle2>
+                <StyledTitle2 level={2}>XXIV</StyledTitle2>
               </Col>
               <Col>
                 <StyledTitle1 level={1} className="ant-typography">
